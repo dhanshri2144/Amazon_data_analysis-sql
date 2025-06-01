@@ -1,5 +1,5 @@
-create database shivani;
-use shivani;
+create database dhanshri;
+use dhanshri;
 
 select * from amazon;
 
